@@ -12,9 +12,9 @@ You can find more information on how to use this SDK and sign up for a free Real
 
 Add this dependency to your project's build file:
 
-    ```
-    compile "com.realexpayments.hpp.sdk:rxp-android:1.0.0"
-    ```
+```
+compile "com.realexpayments.hpp.sdk:rxp-android:1.0.0"
+```
 
 ### Maven
 
